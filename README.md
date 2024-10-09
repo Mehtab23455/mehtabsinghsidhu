@@ -1,4 +1,4 @@
-[![MasterHead](https://img.freepik.com/premium-vector/illustration-web-development-programmer-coding-website_746655-2851.jpg?w=740)
+
 <h1 align="center">Hi 👋, I'm Mehtab Singh Sidhu</h1>
 <h3 align="center">A passionate full-stack developer from India</h3>
 <img align="right" width="400" src="https://img.freepik.com/premium-vector/illustration-web-development-programmer-coding-website_746655-2851.jpg?w=740" alt="coder vector image">
