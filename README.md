@@ -23,4 +23,4 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/buymeacoffee.com/sidhu_mehtaab__"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buymeacoffee.com/sidhu_mehtaab__" /></a></p><br><br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mehatb23455&" alt="mehatb23455" /></p>
+
